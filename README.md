@@ -46,18 +46,5 @@ I am a ~Full Stack Developer~ Problem Solver <img src="https://media.giphy.com/m
 
 ---
 
-### :fire: My Stats :
-<div id="header" align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=murtaza98&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murtaza98&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Murtaza's GitHub stats](https://github-readme-stats.vercel.app/api?username=murtaza98&show_icons=true&theme=dark)](https://github.com/murtaza98/github-readme-stats)
-
-Watch a snake-eating🐍 my contribution graph on Github
-![Snake animation](https://github.com/murtaza98/murtaza98/blob/output/github-contribution-grid-snake-dark.svg)
-
-
-  <img src="https://komarev.com/ghpvc/?username=murtaza98&style=flat-square&color=blue" alt=""/>
 </div> 
