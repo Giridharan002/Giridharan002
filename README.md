@@ -17,7 +17,7 @@
 ### :man_technologist: About Me :
 I am a ~Full Stack Developer~ Problem Solver <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India 🇮🇳.
 
-- 🔧 Software developer with a love for building and creating 
+- 🔧 Web developer with a love for building and creating 
 - 🚀 Currently learning Nextjs
 - :zap: ask me about React , Typescript💙
 - :telescope: In my spare time, I enjoy taking on new projects or spending time with friends and family
