@@ -45,6 +45,15 @@ I am a ~Full Stack Developer~ Problem Solver <img src="https://media.giphy.com/m
 </div>
 
 ---
+---
+
+### :pencil: My Recent Blogs :
+
+- LangChain Embeddings — Tutorial & Examples for LLMs<a href="https://medium.com/@giri.2004k/langchain-embeddings-tutorial-examples-for-llms-1d1f75460025"><img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*DvGSuQ6J5oOQbDEE"/></a>
+- Exploring Open Source Language Models<a href="https://medium.com/@giri.2004k/exploring-open-source-language-models-bc4e5c813900"><img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*k__CTGxidPAP5G7n-1SICw.jpeg"/></a>
+
+
+---
 
 
 </div> 
