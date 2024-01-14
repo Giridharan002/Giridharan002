@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ahVlmHJzTMxygUxUou/giphy.gif" width="200"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/murtaza-p">
+    <a href="https://www.linkedin.com/in/giri-dharan-667163260/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
@@ -22,7 +22,7 @@ I am a ~Full Stack Developer~ Problem Solver <img src="https://media.giphy.com/m
 - :zap: ask me about React , Typescript💙
 - :telescope: In my spare time, I enjoy taking on new projects or spending time with friends and family
 
-- :mailbox: How to reach me: [![Linkedin Badge]()
+- :mailbox: How to reach me: [![Linkedin Badge](https://www.linkedin.com/in/giri-dharan-667163260/)
 
 ---
 
