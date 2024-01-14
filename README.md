@@ -22,7 +22,7 @@ I am a ~Full Stack Developer~ Problem Solver <img src="https://media.giphy.com/m
 - :zap: ask me about React , Typescript💙
 - :telescope: In my spare time, I enjoy taking on new projects or spending time with friends and family
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-giridharan-blue?style=flat&logo=https://www.linkedin.com/in/giri-dharan-667163260/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://www.linkedin.com/in/giri-dharan-667163260/)
 
 ---
 
