@@ -19,7 +19,7 @@ I am a ~Full Stack Developer~ Problem Solver <img src="https://media.giphy.com/m
 
 - 🔧 Web developer with a love for building and creating 
 - 🚀 Currently learning Nextjs
-- :zap: ask me about React , Typescript💙
+- :zap: ask me about React , Javascript💛
 - :telescope: In my spare time, I enjoy taking on new projects or spending time with friends and family
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giri-dharan-667163260/)
